@@ -1,4 +1,4 @@
-# Analyzing Trade Flows in Transportation Services Using the Gravity Model
+# Analyzing Global Bilateral Trade Flows in Transportation Services Using the Gravity Model
 
 ###### Completion date (DD/MM/YYYY): 06/11/2024
 
