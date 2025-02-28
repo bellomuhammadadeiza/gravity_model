@@ -19,8 +19,22 @@ The Gravity Model of international trade is a widely used framework to analyze b
 
 ### 2. Methodology
 
-This project follows Shepherd et al., (2019) user guide to the Gravity Model of international trade. The guide relies on a dataset on bilateral trade in services for the year 2015, which was compiled by Francois et al., (2009) and categorized into sector definitions by the Global Trade Analysis Project (GTAP). While the examples in the guide utilize total (aggregate) services trade, identified as sector SER, for this project, the  focus will be on Transportation Services (TSP). The data for the project is available at  https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version. 
+#### The Software package used for this project is "R"
+
+This project follows Shepherd et al., (2019) user guide to the Gravity Model of international trade. The guide relies on a dataset on bilateral trade in services for the year 2015, which was compiled by Francois et al., (2009) and categorized into sector definitions by the Global Trade Analysis Project (GTAP). While the examples in the guide utilize total (aggregate) services trade, identified as sector SER, for this project, the  focus will be on Transportation Services (TSP). The data for the project is available at  https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version. Full details of the models used can be found in the project report available at [tps_report.pdf](resources/gravitymodel_tsp_report.pdf) and the .html output file of  the analysis from R available at [tps_output.html](resources/tps.html). 
+
+### 3. Results
+
+###### _The results can be found in the report attached: [tps_report.pdf](resources/gravitymodel_tsp_report.pdf)_
 
 
+### 4. References 
 
-   
+Shepherd, B., Doytchinova, H. S. & Kravchenko, A.. (2019). The gravity model of international trade: a user guide [R version]. Bangkok: United Nations ESCAP. Available at: https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version
+
+### 5. Appendix
+
+- The data used for this project is available at https://www.unescap.org/resources/gravity-model-international-trade-user-guide-r-version
+- The R script, which includes step-by-step codes and comments for running all the analysis for the project, is available [here](resources/tps_bello.R)
+- The output of the analysis on R in ```.html``` is available [here](resources/tps.html)
+
